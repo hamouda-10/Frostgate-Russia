@@ -1,0 +1,8 @@
+{
+  "name": "Frostgate Russia — بوابة السياحة في روسيا",
+  "description": "موقع سياحي متكامل لاستكشاف أشهر الأماكن والمعالم في روسيا مع افتتاحية سينمائية متعددة الطبقات ومعرض صور تفاعلي ومخطط رحلات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
